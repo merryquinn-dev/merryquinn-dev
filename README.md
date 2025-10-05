@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi!
 
-<!--
-**merryquinn-dev/merryquinn-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Quinn. I'm a huge open-source fan and aspiring game developer
 
-Here are some ideas to get you started:
+♂️ Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 My IDE of choice is: [Lapce](https://lap.dev/lapce/)
+
+🧪 My favorite language is: Rust 🦀
+
+🐧 OS I'm currently using is: Fedora 🎩
+
+📝 I regularly write articles at [merryquinn.com](https://merryquinn.com)
+
+Why *merry*? Because I'm a pretty jolly lad most of the time.
