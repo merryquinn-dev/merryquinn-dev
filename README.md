@@ -4,7 +4,7 @@ My name is Quinn. I'm a huge open-source fan and aspiring game developer
 
 ♂️ Pronouns: He/Him
 
-🧰 My IDE of choice is: [Lapce](https://lap.dev/lapce/)
+🧰 My IDE of choice is: [Zed](https://zed.dev/)
 
 🧪 My favorite language is: Rust 🦀
 
